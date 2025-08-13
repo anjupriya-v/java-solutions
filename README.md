@@ -20,7 +20,12 @@ This repository contains my **Java practice programs** for **Data Structures, Al
 
 ## 🚀 How to Run
 
-1. **Clone this repository**
+ **Open the Terminal and run the below commands**
    ```bash
    git clone https://github.com/anjupriya-v/java-solutions.git
    cd java-solutions
+   cd Math
+   javac file-name.java
+   java ClassName
+   ```
+
