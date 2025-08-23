@@ -1,32 +1,43 @@
 # Java Solutions – Core Java Practice
 
-This repository contains my **Java practice programs** for **Data Structures, Algorithms, Patterns, and Core Java concepts**. 
+**Language:** Java  
+
+This repository contains my **Java practice programs**, organized by topics such as **Core Java concepts, Data Structures, OOP, GUI, Networking, JDBC, and Utility programs** for easy navigation.
 
 ---
 
 ## 📂 Topics & Files
 
-| Topic        | Files |
-|--------------|-------|
-| **[Search](Search/)** | [binary-search.java](Search/binary-search.java) |
-| **[Math](Math/)** | [amstrong.java](Math/amstrong.java), [co-primes.java](Math/co-primes.java), [perfect-number.java](Math/perfect-number.java), [perfect-square.java](Math/perfect-square.java), [prime-number.java](Math/prime-number.java), [prime-factor.java](Math/prime-factor.java), [prime-frequency.java](Math/prime-frequency.java), [sum-of-primes.java](Math/sum-of-primes.java), [quadratic-equation.java](Math/quadratic-equation.java) |
-| **[String](String/)** | [reverse-string.java](String/reverse-string.java), [numeric-to-roman.java](String/numeric-to-roman.java), [two-digit-names.java](String/two-digit-names.java), [count-frequency.java](String/count-frequency.java) |
-| **[Series](Series/)** | [fibonacci-series.java](Series/fibonacci-series.java), [pascal-triangle.java](Series/pascal-triangle.java) |
-| **[Pattern](Pattern/)** | [floyds-triangle.java](Pattern/floyds-triangle.java), [pattern-1.java](Pattern/pattern-1.java), [pattern-2.java](Pattern/pattern-2.java), [pattern-3.java](Pattern/pattern-3.java), [pattern-4.java](Pattern/pattern-4.java), [pattern-5.java](Pattern/pattern-5.java), [pattern-6.java](Pattern/pattern-6.java) |
-| **[Data Structures](Data%20Structures/)** | [implementation-of-stack-using-array.java](Data%20Structures/implementation-of-stack-using-array.java), [implementation-of-stack-using-linked-list.java](Data%20Structures/implementation-of-stack-using-linked-list.java) |
-| **[Utils](Utils/)** | [call-by-value.java](Utils/call-by-value.java), [call-by-reference.java](Utils/call-by-reference.java), [device-name-system.java](Utils/device-name-system.java) |
-| **[Array](Array/)** | [three-sum.java](Array/three-sum.java) |
+| Topic       | Contents |
+|-------------|----------|
+| **[AWT](AWT/)**              | Java AWT programs for GUI-based applications |
+| **[Array](Array/)**          | Array programs – sorting, searching, manipulation, and utility problems |
+| **[DateAndTime](DateAndTime/)** | Programs for handling dates and time in Java |
+| **[File Handling](File%20Handling/)** | File handling operations – read, write, and file details |
+| **[JDBC](JDBC/)**            | Java Database Connectivity examples |
+| **[JavaNetworking](JavaNetworking/)** | Networking programs in Java (client-server, sockets, etc.) |
+| **[JavaSwing](JavaSwing/)**  | Java Swing GUI programs |
+| **[LinkedList](LinkedList/)**| Implementation and problems based on Linked Lists |
+| **[Math](Math/)**            | Mathematical problems (factorial, prime, Fibonacci, GCD, conversions, etc.) |
+| **[OopConcept](OopConcept/)**| Object-Oriented Programming concepts (inheritance, polymorphism, encapsulation, abstraction, etc.) |
+| **[Pattern](Pattern/)**      | Pattern printing programs |
+| **[Search](Search/)**        | Searching algorithms (binary search, linear search, etc.) |
+| **[Series](Series/)**        | Number series generation problems |
+| **[Sort](Sort/)**            | Sorting algorithms (bubble, selection, insertion, etc.) |
+| **[Stack](Stack/)**          | Stack implementation and stack-related problems |
+| **[String](String/)**        | String manipulation problems (palindrome, anagram, parsing, etc.) |
+| **[Tree](Tree/)**            | Tree data structure problems |
+| **[Utils](Utils/)**          | Utility programs (date, time, helper classes, practice snippets, etc.) |
 
 ---
 
 ## 🚀 How to Run
 
- **Open the Terminal and run the below commands**
-   ```bash
-   git clone https://github.com/anjupriya-v/java-solutions.git
-   cd java-solutions
-   cd Math
-   javac file-name.java
-   java ClassName
-   ```
+Clone the repository and navigate to the topic folder you want:
 
+```bash
+git clone https://github.com/anjupriya-v/java-solutions.git
+cd java-solutions
+cd Math   # or any topic folder
+javac FileName.java
+java ClassName
