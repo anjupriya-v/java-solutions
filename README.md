@@ -1,6 +1,5 @@
 # Java Solutions – Core Java Practice
 
-**Language:** Java  
 
 This repository contains my **Java practice programs**, organized by topics such as **Core Java concepts, Data Structures, OOP, GUI, Networking, JDBC, and Utility programs** for easy navigation.
 
