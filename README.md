@@ -15,7 +15,7 @@ This repository contains my **Java practice programs** for **Data Structures, Al
 | **[Pattern](Pattern/)** | [floyds-triangle.java](Pattern/floyds-triangle.java), [pattern-1.java](Pattern/pattern-1.java), [pattern-2.java](Pattern/pattern-2.java), [pattern-3.java](Pattern/pattern-3.java), [pattern-4.java](Pattern/pattern-4.java), [pattern-5.java](Pattern/pattern-5.java), [pattern-6.java](Pattern/pattern-6.java) |
 | **[Data Structures](Data%20Structures/)** | [implementation-of-stack-using-array.java](Data%20Structures/implementation-of-stack-using-array.java), [implementation-of-stack-using-linked-list.java](Data%20Structures/implementation-of-stack-using-linked-list.java) |
 | **[Utils](Utils/)** | [call-by-value.java](Utils/call-by-value.java), [call-by-reference.java](Utils/call-by-reference.java), [device-name-system.java](Utils/device-name-system.java) |
-| **[Two Pointer](Two%20Pointer/)** | [three-sum.java](Two%20Pointer/three-sum.java) |
+| **[Array](Array/)** | [three-sum.java](Array/three-sum.java) |
 
 ---
 
